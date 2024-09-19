@@ -1,4 +1,4 @@
-#EE554 - Lab1 : Speech Signal Processing
+# EE554 - Lab1 : Speech Signal Processing
 
 This repo contains the code for the course's Speech Signal Processing Lab.
 Answers to the exercises in the notebook are provided in the PDF.
